@@ -1,0 +1,11 @@
+D:\humanot\Desktop\Popravki\Popravki\bin\Debug\Popravki.exe.config
+D:\humanot\Desktop\Popravki\Popravki\bin\Debug\Popravki.exe
+D:\humanot\Desktop\Popravki\Popravki\bin\Debug\Popravki.pdb
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.csproj.AssemblyReference.cache
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.csproj.SuggestedBindingRedirects.cache
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.Form1.resources
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.Properties.Resources.resources
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.csproj.GenerateResource.cache
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.csproj.CoreCompileInputs.cache
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.exe
+D:\humanot\Desktop\Popravki\Popravki\obj\Debug\Popravki.pdb
